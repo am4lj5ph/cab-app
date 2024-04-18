@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
           useMaterial3: true,
         ),
         home: Scaffold(
-          backgroundColor: Colors.amber,
+          backgroundColor: Colors.black,
           body: HomeScreen(),
         ));
   }
